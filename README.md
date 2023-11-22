@@ -122,6 +122,6 @@ Execute the program
 
 
 # OUPUT
-![output](./timetable.png)
+![output](./Screenshot%20from%202023-11-22%2019-01-37.png)
 # result:
 Timetable is created and program executed successfully.
